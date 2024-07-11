@@ -1,27 +1,74 @@
-# AppGestionBiblioteca
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/gourmetgo-firebase.appspot.com/o/Github%2Flogo3.png?alt=media&token=e511fb82-43ed-4243-b554-53b9e8e03c7d" alt="Logo" width="100" height="100" style="margin-top: 20px;" />
+</div>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+<div style="margin: 20px;">
 
-## Development server
+# Sistema de gestión de biblioteca
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+En este repositorio se tiene el desarrollo del sistema de gestión de bibliotecas para la renta de libros.
 
-## Code scaffolding
+## Tech Stack
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Angular
+- Node.js
+- Express
+- MySQL
 
-## Build
+## Features
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Login
+- Inicio
+- Administración
+- Autores
+- Secciones
+- Libros
+- Prestamos
 
-## Running unit tests
+## Screenshots
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <h3>Login</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Login.png" alt="App Screenshot" width="200" height="400">
+  </div>
+  <div style="margin: 10px;">
+    <h3>Inicio</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Inicio.png" alt="App Screenshot" width="200" height="400">
+  </div>
+</div>
 
-## Running end-to-end tests
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <h3>Administración</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Administración.png" alt="App Screenshot" width="200" height="400">
+  </div>
+  <div style="margin: 10px;">
+    <h3>Autores</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Autores.png" alt="App Screenshot" width="200" height="400">
+  </div>
+</div>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <h3>Secciones</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Secciones.png" alt="App Screenshot" width="200" height="400">
+  </div>
+  <div style="margin: 10px;">
+    <h3>Libros</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Libros.png" alt="App Screenshot" width="200" height="400">
+  </div>
+</div>
 
-## Further help
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <h3>Prestamos</h3>
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Prestamos.png" alt="App Screenshot" width="200" height="400">
+  </div>
+</div>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Autor
+
+[@Erick Granda](https://github.com/ErickGranda3756)
+
+</div>

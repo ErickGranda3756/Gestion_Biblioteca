@@ -30,40 +30,40 @@ En este repositorio se tiene el desarrollo del sistema de gestión de biblioteca
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="margin: 10px;">
     <h3>Login</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Login.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Login.png" alt="App Screenshot">
   </div>
   <div style="margin: 10px;">
     <h3>Inicio</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Inicio.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Inicio.png" alt="App Screenshot" >
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="margin: 10px;">
     <h3>Administración</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Administración.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Administración.png" alt="App Screenshot" >
   </div>
   <div style="margin: 10px;">
     <h3>Autores</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Autores.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Autores.png" alt="App Screenshot" >
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="margin: 10px;">
     <h3>Secciones</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Secciones.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Secciones.png" alt="App Screenshot" >
   </div>
   <div style="margin: 10px;">
     <h3>Libros</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Libros.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Libros.png" alt="App Screenshot" >
   </div>
 </div>
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <div style="margin: 10px;">
     <h3>Prestamos</h3>
-    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Prestamos.png" alt="App Screenshot" width="200" height="400">
+    <img src="https://github.com/ErickGranda3756/Gestion_Biblioteca/blob/main/capturas/Prestamos.png" alt="App Screenshot" >
   </div>
 </div>
 
